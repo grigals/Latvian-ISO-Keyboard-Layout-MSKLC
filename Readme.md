@@ -1,3 +1,5 @@
+Allows to use the Latvian Windows langauage package with an ISO/UK keyboard. Swaps symbols like `@` and `"` which are in different locations on a UK keyboard.
+
 ## Generate Build
 1. Install [MSKLC](https://www.microsoft.com/en-US/download/details.aspx?id=102134) (1.4 used)
 2. In KLC. File -> Load Source File, Selec `.klc` in repository.
